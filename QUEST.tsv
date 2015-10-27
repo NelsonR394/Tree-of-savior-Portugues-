@@ -70,7 +70,7 @@ QUEST_20150317_000069	O numero de monstros aqui nao parece diminuir, nao importa
 QUEST_20150317_000070	{memo X}Julian te enviou, Revelador?
 QUEST_20150317_000071	Estou Fascinado. {nl}Voce e a primeira pessoa que eu encontro aqui em anos.
 QUEST_20150317_000072	Eu vou lhe mostrar o que eu vi.
-QUEST_20150317_000073	{memo X}Por favor, esqueca sobre mim e va. {nl}As flores parecem estar crescendo belas.
+QUEST_20150317_000073	{memo X}Por favor, esqueca sobre mim e vá. {nl}As flores parecem estar crescendo belas.
 QUEST_20150317_000074	Lena
 QUEST_20150317_000075	Por favor, conte-me a historia de sua vida. {nl}Nos seguimos a vontade de Vibora e registramos tudo que ha neste mundo.
 QUEST_20150317_000076	Henryka
@@ -111,31 +111,31 @@ QUEST_20150317_000110	Eastern Woods Sentinel
 QUEST_20150317_000111	Voce esta indo para Eastern Woods? {nl}Voce nao pode! E muito perigoso!
 QUEST_20150317_000112	Droga, essas criaturas teimaosas nos seguiram ate aqui.
 QUEST_20150317_000113	{memo X}Esses gritos... Estamos sob ataque!
-QUEST_20150317_000114	Safety Instructions
+QUEST_20150317_000114	Instruções Seguras
 QUEST_20150317_000115	1. Apenas pessoal autorizado pode entrar. {nl}2. Sempre siga as instrucoes do Supervisor da Mina.
 QUEST_20150317_000116	3. Nao entre nas areas fora dos limites. {nl}4. Qualquer individuo suspeito deve ser reportado para os Cavaleiros de  Klaipeda Knights.
 QUEST_20150317_000117	Supply Base Soldier
-QUEST_20150317_000118	I've never been in a real fight before so I'm a bit nervous.
-QUEST_20150317_000119	Farm Sentinel
-QUEST_20150317_000120	My colleague is in the middle of a battle at the Miners' Village. {nl}I've thought of going to help, but the Eastern Woods is in trouble as well, so all I can do is worry.
-QUEST_20150317_000121	I think this mission has shown me enough monsters for a lifetime. {nl}It used to be just groups of Vubbes.
-QUEST_20150317_000122	{memo X}Chupacabras are fond of the streams and lush vegetation of the northern area.
-QUEST_20150317_000123	Klaipeda Guard Captain
-QUEST_20150317_000124	You're the…
-QUEST_20150317_000125	{memo X}It looks like you can see into the upper forest from here. {nl}Try not to get into trouble.
-QUEST_20150317_000126	You don't have the required quest item. Are you sure you want to continue?
-QUEST_20150317_000127	Klaipeda Girl
-QUEST_20150317_000128	My neighbor used to be a monster hunter. {nl}He's retired now, though. It was too dangerous.
-QUEST_20150317_000129	{memo X}It would be nice if all these Revelators being here meant that the Goddesses are back.
-QUEST_20150317_000130	It might be silly to hope for the Goddess' return, but it's better than nothing.
-QUEST_20150317_000131	Klaipeda Lady
-QUEST_20150317_000132	We can still grow from the land, and have a warm hearth at our homes to rest at. {nl}I will always believe the Goddess is somewhere in the world.
-QUEST_20150317_000133	Keep faith. {nl}The Goddess may still send a savior to us.
-QUEST_20150317_000134	Hoplite Master
-QUEST_20150317_000135	$If the sword is a symbol of power, then the spear is that of pure destruction. {nl}Power or destruction - what would you reach for on the battlefield?
+QUEST_20150317_000118	Eu nunca estive em uma batalha pra valer antes então estou um pouco nervoso.
+QUEST_20150317_000119	Sentinela da Fazenda
+QUEST_20150317_000120 Meu colega está no meio de uma batalha na Vila dos Mineiros. {n1}Eu pensei em ir ajudar, mas Eastern Woods está com problemas também, então tudo que posso fazer é me preocupar.
+QUEST_20150317_000121 Eu acho que essa missão já me mostrou monstros o suficiente por uma vida inteira. {n1} Costumavam ser apenas grupos de Vubbes.
+QUEST_20150317_000122	{memo X}Chupacabras gostam de riachos e vegetações exuberantes na região do norte.
+QUEST_20150317_000123	Capitão da Guarda Klaipeda
+QUEST_20150317_000124	Você é o...
+QUEST_20150317_000125	{memo X}Parece que você pode enxergar dentro da floresta superior daqui. {n1}Tente não arranjar problemas.
+QUEST_20150317_000126	Você não tem o item de quest necessário. Você tem certeza que quer continuar?
+QUEST_20150317_000127	Garota de Klaipeda
+QUEST_20150317_000128	Meu visinho costumava ser um caçador de monstros. {n1}Entretanto ele está aposentado agora. Era muito perigoso
+QUEST_20150317_000129	{memo X} Seria bom se todos esses Reveladores estarem aqui significasse que as Deusas estão de volta.
+QUEST_20150317_000130	Pode ser bobo esperar pela volta da Deusa, mas é melhor que nada.
+QUEST_20150317_000131	Senhora de  Klaipeda
+QUEST_20150317_000132	Nós ainda podemos crescer da terra, e ter um coração caloroso em nossas casas para descansar. {n1}Eu vou sempre acreditar que a Deus está em algum lugar do mundo.
+QUEST_20150317_000133	Mantenha a fé. {n1}A Deusa ainda pode nos enviar um salvador.
+QUEST_20150317_000134	Mestre dos Hoplites 
+QUEST_20150317_000135	$Se a espada é símbolo de poder, então a lança é o símbolo da destruição pura. {n1}Poder ou destruição - o que você buscaria em um campo de batalha?
 QUEST_20150317_000136	Machine Worker
-QUEST_20150317_000137	Even with the world as chaotic as it is, we can't stop working. {nl}It's been four years. Isn't it time to make peace with it and start over?
-QUEST_20150317_000138	Klaipeda is a town that lives off its mining. {nl}With Medis Diena, we ought to work on planting trees or cutting them.
+QUEST_20150317_000137	Mesmo com o mundo no caos que está, nós não podemos parar de trabalhar. {n1}Já fazem 4 anos. Não é a hora de se acertar e começar de novo?
+QUEST_20150317_000138	Klaipeda é uma cidade que se mantém pela sua mineração. {n1}Com Medis Diena, nós devemos trabalhar plantando árvores ou cortando elas
 QUEST_20150317_000139	My old man did this thing where he checked around corners for anything nice. {nl}Sometimes, he'd get lucky and find a nice treasure chest. I wonder who leaves them there.
 QUEST_20150317_000140	Retired Hunter
 QUEST_20150317_000141	I remember this battle in a deep canyon where soldiers fought a huge monster. {nl}Seeing the giant thing fall was amazing, but what was more amazing was the spoils.
